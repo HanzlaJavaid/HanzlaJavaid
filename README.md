@@ -1,39 +1,25 @@
-<!--
-**HanzlaJavaid/HanzlaJavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hanzla Javaid
 
-Here are some ideas to get you started:
+**ML Scientist at Expedia Group · Austin, Texas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Hanzla 
+I build production machine learning systems and agentic AI applications. My experience spans recommendation systems, conversational AI, LLM fine-tuning, and the data pipelines and inference services that bring models into products.
 
-## About Me
-- 🔭 I'm currently a computer science graduate student at Indiana University
-- 🌱 My research is focused on GenAI's integration with VR and neural network scaling laws
-- 📫 How to reach me: hanzla403@gmail.com
+## Experience and impact
 
-## My Skills
+- **Expedia Group — ML Scientist, July 2026–present:** Machine learning and agentic AI for travel products.
+- **Mojave Technologies — AI Engineering Intern:** Built multi-agent workflows with LangGraph and MCP; fine-tuned LLMs with PEFT and deployed inference endpoints on Oracle Cloud.
+- **Alibaba Group:** Developed recommendations that increased conversion by **2.3%** and improved dMart CTR by **30%** over a hot-items baseline. Built a conversational shopping experience serving **200,000+ queries per day** and KPI analysis pipelines saving **$96,000 annually**.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+## Selected projects and research
 
-## Connect With Me
+- **[Falcon Mamba R1](https://huggingface.co/hanzla/Falcon3-Mamba-R1-v0):** Explored GRPO and test-time reasoning with a Mamba-based language model.
+- **[Mind Braille](https://giki.edu.pk/2022/04/17/giks-project-makes-history-mind-braille-won-microsoft-imagine-cup-in-europe-middle-east-and-africa-region/):** Built an EEG-based mobile interface; Microsoft Imagine Cup 2022 EMEA Lifestyle winner.
+- **Publications:** [Meta-learning for EEG classification](https://ieeexplore.ieee.org/abstract/document/10150186) (2023) and [deep learning for voltage regulation](https://ieeexplore.ieee.org/abstract/document/9364503) (2020).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlajavaid/)  
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/hanzla)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pHSokP4AAAAJ&hl=en)
+## Core tools
+
+Python · SQL · PyTorch · TensorFlow · Spark · Hugging Face · PEFT/LoRA · LangGraph · MCP · AWS · Azure · Oracle Cloud
+
+## Connect
+
+[Website](https://hanzlajavaid.github.io/) · [LinkedIn](https://www.linkedin.com/in/hanzlajavaid/) · [Hugging Face](https://huggingface.co/hanzla) · [Google Scholar](https://scholar.google.com/citations?user=pHSokP4AAAAJ&hl=en) · [Email](mailto:hanzla403@gmail.com)
